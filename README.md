@@ -1,0 +1,1 @@
+# Amazon-Qoo10-service
